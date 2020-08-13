@@ -1,2 +1,2 @@
 # ReactNativeDex
-A pokedex using a pokeAPI
+A pokedex app using a pokeAPI made with React-Native
